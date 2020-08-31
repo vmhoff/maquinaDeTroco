@@ -1,0 +1,2 @@
+#define CHANGEMACHINE_API __declspec(dllexport)
+#define CHANGEMACHINE_API __declspec(dllimport)

@@ -1,0 +1,12 @@
+﻿  ChangeMachine.cpp
+C:\Users\vinic\source\repos\ChangeMachine\ChangeMachine\ChangeMachine.h(35,16): warning C4251: 'ChangeMachine::db': class 'CoinUnitDB' precisa ter dll-interface para ser usado por clientes de class 'ChangeMachine'
+C:\Users\vinic\source\repos\ChangeMachine\ChangeMachine\CoinUnitDB.h(9): message : consulte a declaração de 'CoinUnitDB'
+C:\Users\vinic\source\repos\ChangeMachine\ChangeMachine\ChangeMachine.h(36,36): warning C4251: 'ChangeMachine::coinUnit': class 'std::unique_ptr<CoinUnit,std::default_delete<CoinUnit>>' precisa ter dll-interface para ser usado por clientes de class 'ChangeMachine'
+C:\Users\vinic\source\repos\ChangeMachine\ChangeMachine\CoinUnitDB.h(14): message : consulte a declaração de 'std::unique_ptr<CoinUnit,std::default_delete<CoinUnit>>'
+  CoinUnit.cpp
+  CoinUnitDB.cpp
+  dllmain.cpp
+  Hopper.cpp
+  Gerando Código...
+     Criando biblioteca C:\Users\vinic\source\repos\ChangeMachine\Debug\ChangeMachine.lib e objeto C:\Users\vinic\source\repos\ChangeMachine\Debug\ChangeMachine.exp
+  ChangeMachine.vcxproj -> C:\Users\vinic\source\repos\ChangeMachine\Debug\ChangeMachine.dll
